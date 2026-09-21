@@ -1,0 +1,9 @@
+asyncio
+edge_tts
+os
+numpy
+scipy
+matplotlib
+librosa
+soundfile
+pydub
